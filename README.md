@@ -11,6 +11,8 @@
   - [Advanced Programming Projects](https://github.com/Huzaifa-Baig/Assignment_Adv_prog)
 - <b>Security Operations Centre (SOC) Lab Project</b>
   - [SOC Center Deployment](https://github.com/Huzaifa-Baig/cyber-master) <b><i>-Still in progress...</i></b>
+- <b>Other Suff</b>
+  - [Experiences](https://drive.google.com/drive/folders/1wehcESduIWpHFJoMWrHGX_Tipn1roHR-?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
 
