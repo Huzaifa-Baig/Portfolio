@@ -3,11 +3,11 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b> AI/ML (Python + Flask)</b>
-  - [DeepFakeDetectionSystem]((https://github.com/Huzaifa-Baig/DeepFakeDetectionSystem))
+  - [DeepFakeDetectionSystem](https://github.com/Huzaifa-Baig/DeepFakeDetectionSystem)
 - <b>Full Stack Web App</b>
-  - [Airline Reservation System]((https://github.com/Huzaifa-Baig/ARS/tree/master))
+  - [Airline Reservation System](https://github.com/Huzaifa-Baig/ARS/tree/master)
 - <b>Project for College</b>
-  - [CTF for College]((https://github.com/Huzaifa-Baig/CTF_for_College))
+  - [CTF for College](https://github.com/Huzaifa-Baig/CTF_for_College)
   - [Advanced Programming Projects](https://github.com/Huzaifa-Baig/Assignment_Adv_prog)
 - <b>Security Operations Centre (SOC) Lab Project</b>
   - [SOC Center Deployment](https://github.com/Huzaifa-Baig/cyber-master) <b><i>-Still in progress...</i></b>
