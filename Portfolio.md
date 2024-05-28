@@ -10,7 +10,7 @@
   - [CTF for College]((https://github.com/Huzaifa-Baig/CTF_for_College))
   - [Advanced Programming Projects](https://github.com/Huzaifa-Baig/Assignment_Adv_prog)
 - <b>Security Operations Centre (SOC) Lab Project</b>
-  - [SOC Center Deployment](https://github.com/Huzaifa-Baig/cyber-master) <b><i>-Still in progress...</i?</b>
+  - [SOC Center Deployment](https://github.com/Huzaifa-Baig/cyber-master) <b><i>-Still in progress...</i></b>
 
 <h2> 🤳 Connect with me:</h2>
 
