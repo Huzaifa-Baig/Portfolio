@@ -1,4 +1,4 @@
-<h1>Hi, I'm Huzaifa! <br/><a href="https://github.com/Huzaifa-Baig">Programmer</a>, <a href="https://www.linkedin.com/in/Huzaifa-Baig/">Cybersecurity Enthusiast</a>,</h1>
+<h1>Hi, I'm Huzaifa! <br/><a href="https://github.com/Huzaifa-Baig">Programmer</a>, <a href="https://www.linkedin.com/in/Huzaifa-Baig/">Cybersecurity Enthusiast</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
